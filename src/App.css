@@ -1,0 +1,11 @@
+.contacts{
+  display: flex ;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-grow: 3;
+  
+  border-color: lightpink;
+  border-width: 2px;
+  border-style: groove;
+}
+
