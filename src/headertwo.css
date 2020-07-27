@@ -52,3 +52,9 @@
     border-style: groove;
     border-width: thin;
 }
+@media (max-width:500px){
+
+    .offeroption{
+        font-size: 10px;
+    }
+    }
