@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import {  BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Header from './Header';
+import C_arousel from './C_arousel';
 
 function App() {
  
@@ -21,7 +22,7 @@ return (
   </Route>
   <Route path="/">
     <Header />
-    <h1>Home</h1>
+    <C_arousel />
   </Route>
     </Switch>
  
