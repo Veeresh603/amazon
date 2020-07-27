@@ -53,14 +53,26 @@
     border-width: thin;
 }
 @media (max-width:500px){
+    .location_icon{
+        margin: 0;
+        padding: 0;
+    }
+    .header_location{
+        margin: 0;
+    }
+    .offer_links{
+        margin-left: 4px;
+    }
 
     .offeroption{
-        font-size: 10px;
+        font-size: 8px;
+        margin: 5px;
+
     }
     .headeroptionOne_location{
-        font-size: 10px;
+        font-size:8px;
     }
     .headeroptionTwo_location{
-        font-size: 11px;
+        font-size: 8px;
     }
     }
