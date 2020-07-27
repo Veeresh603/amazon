@@ -1,10 +1,9 @@
 import React from 'react'
-import C_arousel from './C_arousel'
-
+import CarouseL from './CarouseL'
 function Home() {
     return (
         <div>
-            <C_arousel />
+            <CarouseL />
             <h1>This is an Homepage</h1>
         </div>
     )
