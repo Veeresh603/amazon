@@ -64,9 +64,10 @@
     align-items: center;
     
 }
-@media (max-width:800px){
+@media (max-width:500px){
 
 .header{
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 }
