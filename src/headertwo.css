@@ -1,0 +1,23 @@
+.headertwo{
+    background-color: #232f3e;
+    display: flex;
+    justify-content: space-between;
+}
+.header_location{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4px;
+    margin-left: 4px;
+
+    
+}
+.headeroptionOne_location{
+    color: white;
+    font-size: 12px;
+   
+}
+.headeroptionTwo_location{
+    color: white;
+    font-size: 13px;
+    font-weight: 800;
+}
