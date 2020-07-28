@@ -1,0 +1,36 @@
+.boxlayout{
+    display: flex;
+    background-color: white;
+   flex-direction: column;
+    margin: 0;
+   height: 100%;
+   padding: 0;
+   box-sizing: border-box;  
+   width: 320px;
+    
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.titlename{
+    font-size: 20px;
+    align-items: center;
+}
+
+.insidebox{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-grow: 0;
+}
+.image{
+  width: 100%;
+  padding: 5px;
+  height: 110px;
+}
+.ethnic{
+    font-size: 10px;
+    padding-left: 10px;
+}

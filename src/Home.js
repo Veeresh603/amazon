@@ -2,11 +2,23 @@ import React from 'react';
 import CarouseL from './CarouseL';
 import './Home.css';
 
+import Products from './Products';
+
 function Home() {
     return (
+        <div>
         <div className="banner_img">
             <CarouseL />
-            <h1>This is an Homepage</h1>
+           
+
+        </div>
+        
+        
+        <div className="product_list">
+            <Products />
+            
+           
+        </div>
         </div>
     )
 }

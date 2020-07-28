@@ -3,3 +3,12 @@
     mask-image: linear-gradient(to bottom, rgb(0,0,0, 1), rgba(0,0,0,0));
     
 }
+.product_list{
+    position: absolute;
+    top: 330px;
+    left: 30px;
+  
+  
+}
+
+
