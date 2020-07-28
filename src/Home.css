@@ -19,6 +19,18 @@
    
   
 }
-
+@media (max-width: 500px) {
+ .product_list{
+  display:flex;  
+  flex-direction: column;
+  margin: 0;
+  position: inherit;
+  padding: 0;
+}
+.product_listRecharge{
+    margin: 0;
+    padding: 0;
+}
+}
 
 

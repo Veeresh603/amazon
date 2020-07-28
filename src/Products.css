@@ -24,7 +24,6 @@
     flex-direction: row;
     margin-left: 10px;
     margin-right: 10px;
-    flex-grow: 0;
 }
 .image{
   width: 100%;
@@ -35,3 +34,4 @@
     font-size: 11px;
     padding-left: 10px;
 }
+
