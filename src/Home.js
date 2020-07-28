@@ -3,6 +3,8 @@ import CarouseL from './CarouseL';
 import './Home.css';
 
 import Products from './Products';
+import RechargeProducts from './RechargeProducts';
+import EntertrainedCard from './EntertainedCard';
 
 function Home() {
     return (
@@ -16,6 +18,8 @@ function Home() {
         
         <div className="product_list">
             <Products />
+            <RechargeProducts />
+            <EntertrainedCard />
             
            
         </div>
