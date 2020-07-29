@@ -25,6 +25,12 @@
     padding: 0;
 }
 }
+@media all and (max-width:900px) and (min-width:510px){
+    .product_list{
+        display: flex;
+        justify-content: flex-start;
+    }
+}
 
 
 

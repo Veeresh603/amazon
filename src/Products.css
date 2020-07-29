@@ -50,7 +50,7 @@
         font-size: 14px;
     }
 }
-@media all and (max-width:800px) and (min-width:510px){
+@media all and (max-width:900px) and (min-width:510px){
     .boxlayout{
 
         width: 100%;

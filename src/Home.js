@@ -15,14 +15,14 @@ function Home() {
 
         </div>
         
-        
+      
         <div className="product_list">
             <Products />
             <RechargeProducts />
             <EntertrainedCard />
-            
+            </div>
            
-        </div>
+       
         </div>
     )
 }
