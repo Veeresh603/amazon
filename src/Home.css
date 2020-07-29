@@ -11,14 +11,7 @@
    
   
 }
-.product_listRecharge{
-    position: absolute;
-    top: 330px;
-    left: 30px;
-    display: flex;
-   
-  
-}
+
 @media (max-width: 500px) {
  .product_list{
   display:flex;  
